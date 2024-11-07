@@ -1,4 +1,4 @@
-# Rakuten Frontend Internship Question Answers
+# Rakuten Frontend Internship Test Answers
 
 ### Question 1: 
 
